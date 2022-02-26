@@ -1,0 +1,12 @@
+0,CombatZoneResize,133,251,508,391
+0,HeartTeleport,320,377,,,,,
+0,HeartMode,1,,,,,,
+0.5,BoneStab,1,30,0.5,10,,,,
+0,GasterBlaster,1,324,626,324,466,270,0.4,0.1
+0.9,Platform,300,346,40,0,0,0,0,3
+0.2,BoneVRepeat,128,257,52,0,230,8,160
+0,BoneVRepeat,128,326,60,0,230,8,160
+0,BoneVRepeat,503,257,52,2,230,8,160
+0,BoneVRepeat,503,326,60,2,230,8,160
+4,GasterBlaster,2,324,-20,324,106,90,0.4,0.3,2
+2,EndAttack
